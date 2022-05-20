@@ -1,1 +1,1 @@
-![image](image/Odev1-ScreenShot.png)
+![image](image/patikajavascript-Odev1-Screenshot.png)
